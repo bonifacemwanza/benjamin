@@ -1,0 +1,236 @@
+{
+    "products": [
+        {
+            "name": "Mac Pro",
+            "category": "Computers",
+            "price": 23.89,
+            "currency": "USD",
+            "image": "computer1.jpeg",
+            "bestseller": false,
+            "featured": false,
+            "details": "A laptop, laptop computer, or notebook computer is a small, portable personal computer (PC) with a screen and alphanumeric keyboard. ... Laptops are folded shut for transportation, and thus are suitable for mobile use. Its name comes from lap, as it was deemed practical to be placed on a person's lap when being used. Image result for laptop description A modern laptop is self-contained, with a screen, keyboard and pointing device (like a touchpad), plus usually, speakers, a microphone and a camera. This is all powered by a built-in rechargeable battery, however, the user can also plug the laptop in, to use it and recharge the battery at the same time."
+        },
+        {
+            "name": "French Dress",
+            "category": "Clothes",
+            "price": 50.23,
+            "currency": "USD",
+            "image": "dress1.jpeg",
+            "bestseller": true,
+            "featured": false,
+            "details": " The noun duds is an informal, slang term for clothing.You can pack your duds in a suitcase before a vacation or arrange your duds by color in your closet. The easiest way to start is by setting the scene. Describe where you experienced this event, the atmosphere of the place and the way you felt. A descriptive essay asks you to delve into your senses and report on something in as much detail as possible. The definition of a description is a statement that gives details about someone or something. An example of description is a story about the places visited on a family trip. ... Cars of every size and description. admirable, adorable, alluring, angelic, appealing, beauteous, bewitching, captivating, charming, classy, comely, cute, dazzling, delicate, delightful, divine, elegant, enthralling, enticing, excellent, exquisite, fair, fascinating, fetching, fine, foxy, good-looking, gorgeous, graceful, grand, handsome, ideal, inviting ..."
+        },
+        {
+            "name": "Turkey Mountains",
+            "category": "Landscape",
+            "price": 9.23,
+            "currency": "USD",
+            "image": "landsscape1.jpeg",
+            "bestseller": false,
+            "featured": false,
+            "details": "A landscape is part of the Earths surface that can be viewed at one time from one place. It consists of the geographic features that mark, or are characteristic of, a particular area. ... A natural landscape is made up of a collection of landforms, such as mountains, hills, plains, and plateaus. To simply describe a beautiful natural scenery you can use adjective words lik Pristine, Stunning, Exquisite, Indescribable etc. Image result for landscape description Landscape painting, also known as landscape art, is the depiction of natural scenery such as mountains, valleys, trees, rivers, and forests, especially where the main subject is a wide view—with its elements arranged into a coherent composition."
+        },
+        {
+            "name": "Wholesome Dinner",
+            "category": "People",
+            "price": 10.89,
+            "currency": "USD",
+            "image": "people1.jpeg",
+            "bestseller": false,
+            "featured": true,
+            "details": " The definition of social is someone or something that enjoys being with others or has to do with people living or gathering in groups. An example of social is children laughing and playing together. An example of social is people forming a community health clinic. Social structure, in sociology, the distinctive, stable arrangement of institutions whereby human beings in a society interact and live together. Social structure is often treated together with the concept of social change, which deals with the forces that change the social structure and the organization of society. Some common synonyms of sociable are affable, cordial, genial, and gracious. While all these words mean markedly pleasant and easy in social intercourse, sociable suggests a genuine liking for the companionship of others."
+        },
+        {
+            "name": "Fluffy and Edd",
+            "category": "Animals",
+            "price": 123.00,
+            "currency": "USD",
+            "image": "pet.jpeg",
+            "bestseller": false,
+            "featured": false,
+            "details": "Animals are a major group of organisms, classified as the kingdom Animalia or Metazoa. In general they are multicellular, capable of locomotion and responsive to their environment, and feed by consuming other organisms. Animals have several characteristics that set them apart from other living things. a living thing that is not a human being or plant people and animals the animals in the zoo See More Examples. pigs, chickens, and other farm animals [=animals that live on a farm]Hide. 2 : any living thing that is not a plant Fish, birds, insects, reptiles, mammals, and human beings are all animals. Animals are then broken down into two types: vertebrates and invertebrates. Animals with a backbone are vertebrates. Vertebrates belong to the phylum called Phylum Chordata. Vertebrates are further broken down into five classes: amphibians, birds, fish, mammals, and reptiles."
+        },
+        {
+            "name": "Toyota Scosche",
+            "category": "Vehicles",
+            "price": 180.23,
+            "currency": "USD",
+            "image": "vehicle1.jpeg",
+            "bestseller": false,
+            "featured": false,
+            "details": "A car's make is the brand of the vehicle, while the model refers to the name of a car product and sometimes a range of products. For example, Toyota is a car make and Camry is a car model. Vehicle description means a description of a vehicle including at a minimum the license information, issuing state, make, model, year, color, body style, and vehicle identification number (VIN). How to Find My Car's Make and Model. The back of your car should have the manufacturer's name on one side and the model on the other side. Plus, the car maker's logo is usually on the front and back of your car. The make and model of the vehicle is usually located on the cover of the owner's manual."
+        },
+
+
+        {
+            "name": "Dell Latitude",
+            "category": "Computers",
+            "price": 220.89,
+            "currency": "USD",
+            "image": "computer2.jpeg",
+            "bestseller": false,
+            "featured": false,
+            "details": "A laptop, laptop computer, or notebook computer is a small, portable personal computer (PC) with a screen and alphanumeric keyboard. ... Laptops are folded shut for transportation, and thus are suitable for mobile use. Its name comes from lap, as it was deemed practical to be placed on a person's lap when being used. Image result for laptop description A modern laptop is self-contained, with a screen, keyboard and pointing device (like a touchpad), plus usually, speakers, a microphone and a camera. This is all powered by a built-in rechargeable battery, however, the user can also plug the laptop in, to use it and recharge the battery at the same time."
+        },
+        {
+            "name": "Korean Dress",
+            "category": "Clothes",
+            "price": 210.89,
+            "currency": "USD",
+            "image": "dress2.jpeg",
+            "bestseller": false,
+            "featured": false,
+            "details": " The noun duds is an informal, slang term for clothing.You can pack your duds in a suitcase before a vacation or arrange your duds by color in your closet. The easiest way to start is by setting the scene. Describe where you experienced this event, the atmosphere of the place and the way you felt. A descriptive essay asks you to delve into your senses and report on something in as much detail as possible. The definition of a description is a statement that gives details about someone or something. An example of description is a story about the places visited on a family trip. ... Cars of every size and description. admirable, adorable, alluring, angelic, appealing, beauteous, bewitching, captivating, charming, classy, comely, cute, dazzling, delicate, delightful, divine, elegant, enthralling, enticing, excellent, exquisite, fair, fascinating, fetching, fine, foxy, good-looking, gorgeous, graceful, grand, handsome, ideal, inviting ..."
+        },
+        {
+            "name": "Venice Scape",
+            "category": "Landscape",
+            "price": 300.89,
+            "currency": "USD",
+            "image": "landsscape2.jpeg",
+            "bestseller": false,
+            "featured": false,
+            "details": "A landscape is part of the Earths surface that can be viewed at one time from one place. It consists of the geographic features that mark, or are characteristic of, a particular area. ... A natural landscape is made up of a collection of landforms, such as mountains, hills, plains, and plateaus. To simply describe a beautiful natural scenery you can use adjective words lik Pristine, Stunning, Exquisite, Indescribable etc. Image result for landscape description Landscape painting, also known as landscape art, is the depiction of natural scenery such as mountains, valleys, trees, rivers, and forests, especially where the main subject is a wide view—with its elements arranged into a coherent composition."
+        },
+        {
+            "name": "Teen Fest",
+            "category": "People",
+            "price": 10.90,
+            "currency": "USD",
+            "image": "people2.jpeg",
+            "bestseller": true,
+            "featured": false,
+            "details": " The definition of social is someone or something that enjoys being with others or has to do with people living or gathering in groups. An example of social is children laughing and playing together. An example of social is people forming a community health clinic. Social structure, in sociology, the distinctive, stable arrangement of institutions whereby human beings in a society interact and live together. Social structure is often treated together with the concept of social change, which deals with the forces that change the social structure and the organization of society. Some common synonyms of sociable are affable, cordial, genial, and gracious. While all these words mean markedly pleasant and easy in social intercourse, sociable suggests a genuine liking for the companionship of others."
+        },
+        {
+            "name": "Lloyd",
+            "category": "Animals",
+            "price": 120.89,
+            "currency": "USD",
+            "image":  "pet2.jpeg",
+            "bestseller": false,
+            "featured": false,
+            "details": "Animals are a major group of organisms, classified as the kingdom Animalia or Metazoa. In general they are multicellular, capable of locomotion and responsive to their environment, and feed by consuming other organisms. Animals have several characteristics that set them apart from other living things. a living thing that is not a human being or plant people and animals the animals in the zoo See More Examples. pigs, chickens, and other farm animals [=animals that live on a farm]Hide. 2 : any living thing that is not a plant Fish, birds, insects, reptiles, mammals, and human beings are all animals. Animals are then broken down into two types: vertebrates and invertebrates. Animals with a backbone are vertebrates. Vertebrates belong to the phylum called Phylum Chordata. Vertebrates are further broken down into five classes: amphibians, birds, fish, mammals, and reptiles."
+        },
+        {
+            "name": "Audi",
+            "category": "Vehicles",
+            "price": 80.89,
+            "currency": "USD",
+            "image": "vehicle2.jpeg",
+            "bestseller": false,
+            "featured": false,
+            "details": "A car's make is the brand of the vehicle, while the model refers to the name of a car product and sometimes a range of products. For example, Toyota is a car make and Camry is a car model. Vehicle description means a description of a vehicle including at a minimum the license information, issuing state, make, model, year, color, body style, and vehicle identification number (VIN). How to Find My Car's Make and Model. The back of your car should have the manufacturer's name on one side and the model on the other side. Plus, the car maker's logo is usually on the front and back of your car. The make and model of the vehicle is usually located on the cover of the owner's manual."
+        },
+
+
+        {
+            "name": "Mac 2019",
+            "category": "Computers",
+            "price": 210.89,
+            "currency": "USD",
+            "image":  "computer3.jpeg",
+            "bestseller": true,
+            "featured": false,
+            "details": "A laptop, laptop computer, or notebook computer is a small, portable personal computer (PC) with a screen and alphanumeric keyboard. ... Laptops are folded shut for transportation, and thus are suitable for mobile use. Its name comes from lap, as it was deemed practical to be placed on a person's lap when being used. Image result for laptop description A modern laptop is self-contained, with a screen, keyboard and pointing device (like a touchpad), plus usually, speakers, a microphone and a camera. This is all powered by a built-in rechargeable battery, however, the user can also plug the laptop in, to use it and recharge the battery at the same time."
+        },
+        {
+            "name": "Dior Nighty",
+            "category": "Clothes",
+            "price": 400.89,
+            "currency": "USD",
+            "image":"dress3.jpeg",
+            "bestseller": false,
+            "featured": false,
+            "details": " The noun duds is an informal, slang term for clothing.You can pack your duds in a suitcase before a vacation or arrange your duds by color in your closet. The easiest way to start is by setting the scene. Describe where you experienced this event, the atmosphere of the place and the way you felt. A descriptive essay asks you to delve into your senses and report on something in as much detail as possible. The definition of a description is a statement that gives details about someone or something. An example of description is a story about the places visited on a family trip. ... Cars of every size and description. admirable, adorable, alluring, angelic, appealing, beauteous, bewitching, captivating, charming, classy, comely, cute, dazzling, delicate, delightful, divine, elegant, enthralling, enticing, excellent, exquisite, fair, fascinating, fetching, fine, foxy, good-looking, gorgeous, graceful, grand, handsome, ideal, inviting ..."
+        },
+        {
+            "name": "City Hall",
+            "category": "Landscape",
+            "price": 60.89,
+            "currency": "USD",
+            "image":  "landsscape3.jpeg",
+            "bestseller": false,
+            "featured": false,
+            "details": "A landscape is part of the Earths surface that can be viewed at one time from one place. It consists of the geographic features that mark, or are characteristic of, a particular area. ... A natural landscape is made up of a collection of landforms, such as mountains, hills, plains, and plateaus. To simply describe a beautiful natural scenery you can use adjective words lik Pristine, Stunning, Exquisite, Indescribable etc. Image result for landscape description Landscape painting, also known as landscape art, is the depiction of natural scenery such as mountains, valleys, trees, rivers, and forests, especially where the main subject is a wide view—with its elements arranged into a coherent composition."
+        },
+        {
+            "name": "Recycle",
+            "category": "People",
+            "price": 180.89,
+            "currency": "USD",
+            "image":"people3.jpeg",
+            "bestseller": false,
+            "featured": false,
+            "details": " The definition of social is someone or something that enjoys being with others or has to do with people living or gathering in groups. An example of social is children laughing and playing together. An example of social is people forming a community health clinic. Social structure, in sociology, the distinctive, stable arrangement of institutions whereby human beings in a society interact and live together. Social structure is often treated together with the concept of social change, which deals with the forces that change the social structure and the organization of society. Some common synonyms of sociable are affable, cordial, genial, and gracious. While all these words mean markedly pleasant and easy in social intercourse, sociable suggests a genuine liking for the companionship of others."
+        },
+        {
+            "name": "Joanne",
+            "category": "Animals",
+            "price": 140.89,
+            "currency": "USD",
+            "image":  "pet3.jpeg",
+            "bestseller": false,
+            "featured": false,
+            "details": "Animals are a major group of organisms, classified as the kingdom Animalia or Metazoa. In general they are multicellular, capable of locomotion and responsive to their environment, and feed by consuming other organisms. Animals have several characteristics that set them apart from other living things. a living thing that is not a human being or plant people and animals the animals in the zoo See More Examples. pigs, chickens, and other farm animals [=animals that live on a farm]Hide. 2 : any living thing that is not a plant Fish, birds, insects, reptiles, mammals, and human beings are all animals. Animals are then broken down into two types: vertebrates and invertebrates. Animals with a backbone are vertebrates. Vertebrates belong to the phylum called Phylum Chordata. Vertebrates are further broken down into five classes: amphibians, birds, fish, mammals, and reptiles."
+        },
+        {
+            "name": "Range Rover",
+            "category": "Vehicles",
+            "price": 2.89,
+            "currency": "USD",
+            "image": "vehicle3.jpeg",
+            "bestseller": false,
+            "featured": false,
+            "details": "A car's make is the brand of the vehicle, while the model refers to the name of a car product and sometimes a range of products. For example, Toyota is a car make and Camry is a car model. Vehicle description means a description of a vehicle including at a minimum the license information, issuing state, make, model, year, color, body style, and vehicle identification number (VIN). How to Find My Car's Make and Model. The back of your car should have the manufacturer's name on one side and the model on the other side. Plus, the car maker's logo is usually on the front and back of your car. The make and model of the vehicle is usually located on the cover of the owner's manual."
+        },
+
+
+
+
+        
+        {
+            "name": "Fashion Showcase",
+            "category": "Clothes",
+            "price": 100.89,
+            "currency": "USD",
+            "image":  "dress4.jpeg",
+            "bestseller": false,
+            "featured": true,
+            "details": " The noun duds is an informal, slang term for clothing.You can pack your duds in a suitcase before a vacation or arrange your duds by color in your closet. The easiest way to start is by setting the scene. Describe where you experienced this event, the atmosphere of the place and the way you felt. A descriptive essay asks you to delve into your senses and report on something in as much detail as possible. The definition of a description is a statement that gives details about someone or something. An example of description is a story about the places visited on a family trip. ... Cars of every size and description. admirable, adorable, alluring, angelic, appealing, beauteous, bewitching, captivating, charming, classy, comely, cute, dazzling, delicate, delightful, divine, elegant, enthralling, enticing, excellent, exquisite, fair, fascinating, fetching, fine, foxy, good-looking, gorgeous, graceful, grand, handsome, ideal, inviting ..."
+        },
+        {
+            "name": "Cute Wizard",
+            "category": "People",
+            "price": 100.89,
+            "currency": "USD",
+            "image": "people4.jpeg",
+            "bestseller": false,
+            "featured": false,
+            "details": " The definition of social is someone or something that enjoys being with others or has to do with people living or gathering in groups. An example of social is children laughing and playing together. An example of social is people forming a community health clinic. Social structure, in sociology, the distinctive, stable arrangement of institutions whereby human beings in a society interact and live together. Social structure is often treated together with the concept of social change, which deals with the forces that change the social structure and the organization of society. Some common synonyms of sociable are affable, cordial, genial, and gracious. While all these words mean markedly pleasant and easy in social intercourse, sociable suggests a genuine liking for the companionship of others."
+        },
+        {
+            "name": "Fred",
+            "category": "Animals",
+            "price": 100.89,
+            "currency": "USD",
+            "image":  "pet4.jpeg",
+            "bestseller": false,
+            "featured": false,
+            "details": "Animals are a major group of organisms, classified as the kingdom Animalia or Metazoa. In general they are multicellular, capable of locomotion and responsive to their environment, and feed by consuming other organisms. Animals have several characteristics that set them apart from other living things. a living thing that is not a human being or plant people and animals the animals in the zoo See More Examples. pigs, chickens, and other farm animals [=animals that live on a farm]Hide. 2 : any living thing that is not a plant Fish, birds, insects, reptiles, mammals, and human beings are all animals. Animals are then broken down into two types: vertebrates and invertebrates. Animals with a backbone are vertebrates. Vertebrates belong to the phylum called Phylum Chordata. Vertebrates are further broken down into five classes: amphibians, birds, fish, mammals, and reptiles."
+        },
+        {
+            "name": "BMW Blue",
+            "category": "Vehicles",
+            "price": 100.89,
+            "currency": "USD",
+            "image":  "vehicle4.jpeg",
+            "bestseller": true,
+            "featured": false,
+            "details": "A car's make is the brand of the vehicle, while the model refers to the name of a car product and sometimes a range of products. For example, Toyota is a car make and Camry is a car model. Vehicle description means a description of a vehicle including at a minimum the license information, issuing state, make, model, year, color, body style, and vehicle identification number (VIN). How to Find My Car's Make and Model. The back of your car should have the manufacturer's name on one side and the model on the other side. Plus, the car maker's logo is usually on the front and back of your car. The make and model of the vehicle is usually located on the cover of the owner's manual."
+        }
+    ]
+}
+
+
+        
